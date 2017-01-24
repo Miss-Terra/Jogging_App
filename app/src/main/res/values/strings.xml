@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JoggingApp</string>
+    <string name="title_activity_jogging_map">JoggingMap</string>
+</resources>
